@@ -2,8 +2,8 @@ Day 3 Task: Basic Linux Commands
 
 Task: What is the linux command to
 
-1. To view what's written in a file.
-2. To change the access permissions of files.
+1. To view what's written in a file.  A. cat $filename
+2. To change the access permissions of files. chmod <permisions number> <$filename>
 3. To check which commands you have run till now.
 4. To remove a directory/ Folder.
 5. To create a fruits.txt file and to view the content.
